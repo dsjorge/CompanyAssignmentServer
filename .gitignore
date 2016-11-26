@@ -1,0 +1,7 @@
+#*.o
+*.a
+.*
+*.db
+!.gitignore
+Client/CHANGELOG.md                                                                                                                             
+Client/LICENSE                                                                                                                                  
